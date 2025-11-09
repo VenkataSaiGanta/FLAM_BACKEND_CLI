@@ -1,0 +1,54 @@
+
+[2025-11-06T07:54:06.782Z] START: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+ERROR: Command failed: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+
+[2025-11-06T07:54:06.887Z] END (FAIL)
+
+[2025-11-06T07:54:09.051Z] START: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+ERROR: Command failed: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+
+[2025-11-06T07:54:09.310Z] END (FAIL)
+
+[2025-11-06T07:54:14.823Z] START: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+ERROR: Command failed: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+
+[2025-11-06T07:54:15.108Z] END (FAIL)
+
+[2025-11-06T07:55:26.405Z] START: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+ERROR: Command failed: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+
+[2025-11-06T07:55:26.490Z] END (FAIL)
+
+[2025-11-06T07:55:28.814Z] START: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+ERROR: Command failed: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+
+[2025-11-06T07:55:29.091Z] END (FAIL)
+
+[2025-11-06T07:57:27.570Z] START: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+ERROR: Command failed: invalidcmd
+/bin/sh: 1: invalidcmd: not found
+
+
+[2025-11-06T07:57:27.663Z] END (FAIL)
