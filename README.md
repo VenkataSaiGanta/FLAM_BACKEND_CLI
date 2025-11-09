@@ -233,23 +233,7 @@ Workers will detect stuck jobs and move them to **failed**.
 
 ---
 
-# ✅ Assignment Requirements Checklist
 
-✅ Job execution  
-✅ Exit-code based failure handling  
-✅ Retry + exponential backoff  
-✅ DLQ  
-✅ Timeout  
-✅ Persistent storage  
-✅ Worker concurrency  
-✅ Crash recovery  
-✅ Full CLI interface  
-✅ Modular clean code  
-✅ Full README  
 
----
 
-# ✅ Completed!
-
-If you want advanced features like a **web UI**, **priority queues**, or **cron-scheduled jobs**, just tell me! 🚀
 
